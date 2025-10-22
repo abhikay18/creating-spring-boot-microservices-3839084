@@ -4,7 +4,6 @@ import org.springframework.stereotype.Service;
 
 import com.example.tourservice.utilities.TourRepository;
 
-@Service
 public class TravelAgentService {
     private  TourRepository tourRepository;
 
